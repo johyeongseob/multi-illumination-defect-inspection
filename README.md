@@ -1,13 +1,13 @@
 # [2024] LGDisplay-DGU-cooperation
-주제: Multi-light 기반 외관검사 알고리즘 개발
+#주제: Multi-light 기반 외관검사 알고리즘 개발
 
-목적: 결함 분류 (classification)
+- 목적: 결함 분류 (classification)
 
-성과1: 결함 분류 정확도 98.5% (테스트 데이터셋: 192장/195장), 정상 분류 정확도 51.3% (테스트 데이터셋: 157장/306장)
+- 성과1: 결함 분류 정확도 98.5% (테스트 데이터셋: 192장/195장), 정상 분류 정확도 51.3% (테스트 데이터셋: 157장/306장)
 
-성과2: 결함 분류 논문 작성 중
+- 성과2: 결함 분류 논문 작성 중 (AVAF-Net)
 
-블로그 설명: https://johyeongseob.tistory.com/55
+- 블로그 설명: https://johyeongseob.tistory.com/55
 
 산학과제 코드 설명
 
