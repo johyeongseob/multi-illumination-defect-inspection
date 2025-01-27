@@ -4,6 +4,7 @@
 목적: 결함 분류 (classification)
 
 성과1: 결함 분류 정확도 98.5% (테스트 데이터셋: 192장/195장)
+
 성과2: 결함 분류 논문 작성 중
 
 블로그 설명: https://johyeongseob.tistory.com/55
