@@ -1,6 +1,8 @@
 # [2024] LGDisplay-DGU-cooperation
 Multi-light 기반 외관검사 알고리즘 개발
 
+블로그 설명: https://johyeongseob.tistory.com/55
+
 - Ensemble 디렉토리
     - model1_ensemble.py: 모델1에 대한 앙상블 결과를 확인할 수 있는 코드입니다.
     - model2_ensemble.py: 모델2에 대한 앙상블 결과를 확인할 수 있는 코드입니다.
