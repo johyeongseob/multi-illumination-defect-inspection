@@ -7,7 +7,7 @@
 
 - 성과2: 결함 분류 논문 작성 중 (AVAF-Net)
 
-- 블로그 설명: https://johyeongseob.tistory.com/55
+- 블로그 설명: https://johyeongseob.tistory.com/57
 
 산학과제 코드 설명
 
