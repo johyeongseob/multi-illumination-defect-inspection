@@ -28,7 +28,3 @@
 
  - DataLoader.py: 이미지를 배치 단위로 구성하는 코드입니다.
   - model 별 dataloader 구조가 변경되도록 파라미터(target)를 사용하였습니다.
-
-
- - 타임라인
-<img width="1076" alt="Image" src="https://github.com/user-attachments/assets/1add0d21-93d5-4fb0-a4f1-f5f009608fef" />
