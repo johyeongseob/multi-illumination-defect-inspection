@@ -31,4 +31,4 @@
 
 
  - 타임라인
-
+<img width="1076" alt="Image" src="https://github.com/user-attachments/assets/1add0d21-93d5-4fb0-a4f1-f5f009608fef" />
