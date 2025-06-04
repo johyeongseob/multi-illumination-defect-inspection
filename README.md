@@ -21,6 +21,7 @@
 
 
 ---
+![Ensemble model](images/ensemble.png)
 
 ## 🧠 Code Description
 
