@@ -73,6 +73,3 @@ This repository implements multiple ensemble models and deep learning backbones 
 *This project uses a private dataset provided by LG Display and is not publicly available.*
 
 ---
-
-이 README는 GitHub에서 바로 사용 가능해.  
-필요하다면 실행 방법(`Usage`), 요구 라이브러리(`Requirements`), 논문 링크 등도 추가해줄 수 있어. 원할 경우 알려줘!
