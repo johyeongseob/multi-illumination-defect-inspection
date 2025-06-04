@@ -15,7 +15,7 @@
   - 51.3% (157/306 images correctly classified on test set)
 
 - ✅ **Paper in Progress**:  
-  - Paper **ProtoDC-Net: A Prototpye-based Defect Classification Networks ~~** has been submitted and is under review.
+  - Paper *ProtoDC-Net: A Prototpye-based Defect Classification Networks ~~* has been submitted and is under review.
 
 - ✅ **Blog Post**: https://johyeongseob.tistory.com/57
 
