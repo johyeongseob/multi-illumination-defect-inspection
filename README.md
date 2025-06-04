@@ -17,8 +17,7 @@
 - ✅ **Paper in Progress**:  
   - Research on *ProtoDC-Net: ~~* has been submitted and is under review.
 
-- ✅ **Blog Post**:  
-  - <a href="https://johyeongseob.tistory.com/57" target="_blank">📄 Explanation on Tistory Blog</a>
+- ✅ **Blog Post**: https://johyeongseob.tistory.com/57
 
 ---
 
