@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-- **Title**: Development of a Multi-Light-Based Visual Inspection Algorithm  
+- **Title**: Development of a Multi-Illumination-Based Visual Inspection Algorithm  
 - **Objective**: Defect Classification in Display Products  
 - **Partner**: LG Display × Dongguk University (Industry-Academia Collaboration Project)  
 
@@ -15,7 +15,7 @@
   - 51.3% (157/306 images correctly classified on test set)
 
 - ✅ **Paper in Progress**:  
-  - Research on *Multi-Image-Based Visual Defect Inspection for Display Products* is currently underway.
+  - Research on *ProtoDC-Net: ~~* is currently submitted.
 
 - ✅ **Blog Post**:  
   - [📄 Explanation on Tistory Blog](https://johyeongseob.tistory.com/57)
