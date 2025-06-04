@@ -15,10 +15,10 @@
   - 51.3% (157/306 images correctly classified on test set)
 
 - ✅ **Paper in Progress**:  
-  - Research on *ProtoDC-Net: ~~* is currently submitted.
+  - Research on *ProtoDC-Net: ~~* has been submitted and is under review.
 
 - ✅ **Blog Post**:  
-  - [📄 Explanation on Tistory Blog](https://johyeongseob.tistory.com/57)
+  - <a href="https://johyeongseob.tistory.com/57" target="_blank">📄 Explanation on Tistory Blog</a>
 
 ---
 
