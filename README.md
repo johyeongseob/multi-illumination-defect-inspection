@@ -26,9 +26,7 @@
 
 The diagram below illustrates the overall ensemble strategy used in this project, where multiple model outputs are integrated to improve defect classification accuracy.
 
-<p align="center">
-  <img src="images/ensemble.png" alt="Ensemble Model" style="width:50%;" />
-</p>
+![Ensemble Model](images/ensemble.png)
 
 ---
 
