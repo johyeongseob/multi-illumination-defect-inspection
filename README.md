@@ -4,7 +4,9 @@
 
 - **Title**: Development of a Multi-Illumination-Based Visual Inspection Algorithm  
 - **Objective**: Defect Classification in Display Products  
-- **Partner**: LG Display × Dongguk University (Industry-Academia Collaboration Project)  
+- **Partner**: LG Display × Dongguk University (Industry-Academia Collaboration Project)
+- **Duration**: March 2024 – February 2025
+- **Meetings**: Monthly meetings, mid-term meeting in August 2024, final meeting in February 2025
 
 ## 🏆 Achievements
 
