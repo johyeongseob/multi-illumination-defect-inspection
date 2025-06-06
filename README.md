@@ -16,6 +16,9 @@
 - ✅ **Normal Classification Accuracy**:  
   - 51.3% (157/306 images correctly classified on test set)
 
+- ✅ **Deployment**:
+  - The final algorithm developed in this project has been deployed in a real-world LG Display inspection system.
+
 - ✅ **Paper in Progress**:  
   - Paper has been submitted and is under review (decision 2025.07.25).
 
