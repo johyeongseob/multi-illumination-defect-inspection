@@ -31,7 +31,7 @@
 
 The diagram below illustrates the overall ensemble strategy used in this project, where multiple model outputs are integrated to improve defect classification accuracy.
 
-![classifier Model](images/lgd_classifier.png)
+![classifier Model](images/lgd_classifier2.jpg)
 ![Ensemble Model](images/lgd_ensemble2.png)
 
 ---
